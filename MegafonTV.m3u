@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1,Dmitry-tv HD
