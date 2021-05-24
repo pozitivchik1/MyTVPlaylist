@@ -1,645 +1,645 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/denmsiptv.jpg",-rtn-n 16.05 15:19 iptvin.ru каналов 321 
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/denmsiptv.jpg",-rtn-n 25.05  1:17 iptvin.ru каналов 321 
 https://dl.dropbox.com/s/8nhn9v7x845qg5i/iptvin.ru.mp4
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
-http://93.120.157.254:4088/udp/225.52.221.1:5000
+http://95.37.25.92:4088/udp/225.52.221.1:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
-http://93.120.157.254:4088/udp/225.52.20.1:5000
+http://95.37.25.92:4088/udp/225.52.20.1:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
-http://93.120.157.254:4088/udp/225.52.223.1:5000
+http://95.37.25.92:4088/udp/225.52.223.1:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
-http://93.120.157.254:4088/udp/225.52.223.3:5000
+http://95.37.25.92:4088/udp/225.52.223.3:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy" tvg-shift="-1" shift="+1",Первый канал (+1)
-http://93.120.157.254:4088/udp/225.52.20.3:5000
+http://95.37.25.92:4088/udp/225.52.20.3:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy" tvg-shift="-2" shift="+2",Первый канал (+2)
-http://93.120.157.254:4088/udp/225.52.20.2:5000
+http://95.37.25.92:4088/udp/225.52.20.2:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/146.jpg" logo="https://img12.lostpic.net/2018/05/12/959ec69dbfa62ca8bb134a9bb7e968e8.png" channelId="1" tvg-id="pervy",Первый HD
-http://93.120.157.254:4088/udp/225.52.143.1:5000
+http://95.37.25.92:4088/udp/225.52.143.1:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://93.120.157.254:4088/udp/225.52.20.11:5000
+http://95.37.25.92:4088/udp/225.52.20.11:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://93.120.157.254:4088/udp/225.52.221.11:5000
+http://95.37.25.92:4088/udp/225.52.221.11:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://93.120.157.254:4088/udp/225.52.223.11:5000
+http://95.37.25.92:4088/udp/225.52.223.11:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://93.120.157.254:4088/udp/225.52.223.15:5000
+http://95.37.25.92:4088/udp/225.52.223.15:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://93.120.157.254:4088/udp/233.171.199.2:5000
+http://95.37.25.92:4088/udp/233.171.199.2:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1" tvg-shift="-1" shift="+1",Россия 1 (+1)
-http://93.120.157.254:4088/udp/225.52.43.253:5000
+http://95.37.25.92:4088/udp/225.52.43.253:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1" tvg-shift="-2" shift="+2",Россия 1 (+2)
-http://93.120.157.254:4088/udp/225.52.20.12:5000
+http://95.37.25.92:4088/udp/225.52.20.12:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1_hd.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/67b14dec7f9449a2a2b3e5f42229119a.png" channelId="203" tvg-id="rossia1",Россия 1 HD
-http://93.120.157.254:4088/udp/225.52.143.23:5000
+http://95.37.25.92:4088/udp/225.52.143.23:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ 3
-http://93.120.157.254:4088/udp/225.52.223.141:5000
+http://95.37.25.92:4088/udp/225.52.223.141:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ 3
-http://93.120.157.254:4088/udp/225.52.20.141:5000
+http://95.37.25.92:4088/udp/225.52.20.141:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ 3
-http://93.120.157.254:4088/udp/225.52.221.141:5000
+http://95.37.25.92:4088/udp/225.52.221.141:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ 3
-http://93.120.157.254:4088/udp/225.52.20.142:5000
+http://95.37.25.92:4088/udp/225.52.20.142:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru" tvg-shift="-2" shift="+2",ТВ 3 (+2)
-http://93.120.157.254:4088/udp/233.99.61.209:5000
+http://95.37.25.92:4088/udp/233.99.61.209:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
-http://93.120.157.254:4088/udp/225.52.223.31:5000
+http://95.37.25.92:4088/udp/225.52.223.31:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
-http://93.120.157.254:4088/udp/225.52.20.31:5000
+http://95.37.25.92:4088/udp/225.52.20.31:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
-http://93.120.157.254:4088/udp/225.52.221.31:5000
+http://95.37.25.92:4088/udp/225.52.221.31:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
-http://93.120.157.254:4088/udp/225.52.223.33:5000
+http://95.37.25.92:4088/udp/225.52.223.33:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ ((+2) НН)
-http://93.120.157.254:4088/udp/225.52.20.32:5000
+http://95.37.25.92:4088/udp/225.52.20.32:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://television-live.com/uploads/posts/cr4wrwerwefwefx.png" logo="https://img15.lostpic.net/2019/10/12/7bfd17228e444a2f6a19e1eee7be8d2c.png" channelId="7" tvg-id="5kanal-ua",5 канал
-http://93.120.157.254:4088/udp/225.52.223.41:5000
+http://95.37.25.92:4088/udp/225.52.223.41:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://television-live.com/uploads/posts/cr4wrwerwefwefx.png" logo="https://img15.lostpic.net/2019/10/12/7bfd17228e444a2f6a19e1eee7be8d2c.png" channelId="7" tvg-id="5kanal-ua",5 канал
-http://93.120.157.254:4088/udp/225.52.20.41:5000
+http://95.37.25.92:4088/udp/225.52.20.41:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://television-live.com/uploads/posts/cr4wrwerwefwefx.png" logo="https://img15.lostpic.net/2019/10/12/7bfd17228e444a2f6a19e1eee7be8d2c.png" channelId="7" tvg-id="5kanal-ua" tvg-shift="-2" shift="+2",5 канал (+2)
-http://93.120.157.254:4088/udp/225.52.20.42:5000
+http://95.37.25.92:4088/udp/225.52.20.42:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="https://img12.lostpic.net/2018/05/19/512e7079bd3b3c36a2204c05fc41938b.png" channelId="13" tvg-id="tvcentr",ТВЦ
-http://93.120.157.254:4088/udp/225.52.20.91:5000
+http://95.37.25.92:4088/udp/225.52.20.91:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="https://img12.lostpic.net/2018/05/19/512e7079bd3b3c36a2204c05fc41938b.png" channelId="13" tvg-id="tvcentr",ТВЦ
-http://93.120.157.254:4088/udp/225.52.221.91:5000
+http://95.37.25.92:4088/udp/225.52.221.91:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="https://img12.lostpic.net/2018/05/19/512e7079bd3b3c36a2204c05fc41938b.png" channelId="13" tvg-id="tvcentr",ТВЦ
-http://93.120.157.254:4088/udp/225.52.223.91:5000
+http://95.37.25.92:4088/udp/225.52.223.91:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="https://img12.lostpic.net/2018/05/19/512e7079bd3b3c36a2204c05fc41938b.png" channelId="13" tvg-id="tvcentr" tvg-shift="-2" shift="+2",ТВЦ (+2)
-http://93.120.157.254:4088/udp/225.52.20.92:5000
+http://95.37.25.92:4088/udp/225.52.20.92:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",РЕН ТВ
-http://93.120.157.254:4088/udp/225.52.223.101:5000
+http://95.37.25.92:4088/udp/225.52.223.101:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",РЕН ТВ
-http://93.120.157.254:4088/udp/225.52.20.101:5000
+http://95.37.25.92:4088/udp/225.52.20.101:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",РЕН ТВ
-http://93.120.157.254:4088/udp/225.52.221.101:5000
+http://95.37.25.92:4088/udp/225.52.221.101:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv" tvg-shift="-2" shift="+2",РЕН ТВ (+2)
-http://93.120.157.254:4088/udp/225.52.20.102:5000
+http://95.37.25.92:4088/udp/225.52.20.102:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
-http://93.120.157.254:4088/udp/225.52.20.181:5000
+http://95.37.25.92:4088/udp/225.52.20.181:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
-http://93.120.157.254:4088/udp/225.52.221.181:5000
+http://95.37.25.92:4088/udp/225.52.221.181:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
-http://93.120.157.254:4088/udp/225.52.223.181:5000
+http://95.37.25.92:4088/udp/225.52.223.181:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt" tvg-shift="-2" shift="+2",ТНТ (+2)
-http://93.120.157.254:4088/udp/225.52.20.182:5000
+http://95.37.25.92:4088/udp/225.52.20.182:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://93.120.157.254:4088/udp/225.52.20.121:5000
+http://95.37.25.92:4088/udp/225.52.20.121:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://93.120.157.254:4088/udp/225.52.221.121:5000
+http://95.37.25.92:4088/udp/225.52.221.121:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://93.120.157.254:4088/udp/225.52.223.121:5000
+http://95.37.25.92:4088/udp/225.52.223.121:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://93.120.157.254:4088/udp/225.52.223.122:5000
+http://95.37.25.92:4088/udp/225.52.223.122:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://93.120.157.254:4088/udp/225.52.223.123:5000
+http://95.37.25.92:4088/udp/225.52.223.123:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts" tvg-shift="-2" shift="+2",СТС (+2)
-http://93.120.157.254:4088/udp/225.52.20.122:5000
+http://95.37.25.92:4088/udp/225.52.20.122:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny",Домашний
-http://93.120.157.254:4088/udp/225.52.223.131:5000
+http://95.37.25.92:4088/udp/225.52.223.131:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny",Домашний
-http://93.120.157.254:4088/udp/225.52.20.131:5000
+http://95.37.25.92:4088/udp/225.52.20.131:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny",Домашний
-http://93.120.157.254:4088/udp/225.52.221.131:5000
+http://95.37.25.92:4088/udp/225.52.221.131:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny",Домашний
-http://93.120.157.254:4088/udp/225.52.223.132:5000
+http://95.37.25.92:4088/udp/225.52.223.132:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" tvg-id="domashny" tvg-shift="-2" shift="+2",Домашний (+2)
-http://93.120.157.254:4088/udp/225.52.20.132:5000
+http://95.37.25.92:4088/udp/225.52.20.132:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
-http://93.120.157.254:4088/udp/225.52.223.81:5000
+http://95.37.25.92:4088/udp/225.52.223.81:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
-http://93.120.157.254:4088/udp/225.52.20.81:5000
+http://95.37.25.92:4088/udp/225.52.20.81:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
-http://93.120.157.254:4088/udp/225.52.221.81:5000
+http://95.37.25.92:4088/udp/225.52.221.81:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
-http://93.120.157.254:4088/udp/233.99.61.49:5000
+http://95.37.25.92:4088/udp/233.99.61.49:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda",Звезда
-http://93.120.157.254:4088/udp/225.52.223.161:5000
+http://95.37.25.92:4088/udp/225.52.223.161:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda",Звезда
-http://93.120.157.254:4088/udp/225.52.20.161:5000
+http://95.37.25.92:4088/udp/225.52.20.161:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda",Звезда
-http://93.120.157.254:4088/udp/225.52.221.161:5000
+http://95.37.25.92:4088/udp/225.52.221.161:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda" tvg-shift="-2" shift="+2",Звезда (+2)
-http://93.120.157.254:4088/udp/225.52.20.162:5000
+http://95.37.25.92:4088/udp/225.52.20.162:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К
-http://93.120.157.254:4088/udp/225.52.221.51:5000
+http://95.37.25.92:4088/udp/225.52.221.51:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К
-http://93.120.157.254:4088/udp/225.52.20.51:5000
+http://95.37.25.92:4088/udp/225.52.20.51:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К
-http://93.120.157.254:4088/udp/225.52.223.51:5000
+http://95.37.25.92:4088/udp/225.52.223.51:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura" tvg-shift="-2" shift="+2",Россия К (+2)
-http://93.120.157.254:4088/udp/225.52.20.52:5000
+http://95.37.25.92:4088/udp/225.52.20.52:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1348753453906.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2CC_7_70_1680000_0_0_0.png" channelId="184" tvg-id="radost-moya",Радость Моя
-http://93.120.157.254:4088/udp/225.52.123.93:5000
+http://95.37.25.92:4088/udp/225.52.123.93:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/0141.png" logo="https://img12.lostpic.net/2018/05/19/ddb503f59b0871d804ef8532e643d7d5.png" channelId="1722" tvg-id="mult",Мульт HD
-http://93.120.157.254:4088/udp/225.52.143.70:5000
+http://95.37.25.92:4088/udp/225.52.143.70:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/0141.png" logo="https://img12.lostpic.net/2018/05/19/ddb503f59b0871d804ef8532e643d7d5.png" channelId="1722" tvg-id="mult",Мульт HD
-http://93.120.157.254:4088/udp/225.52.53.70:5000
+http://95.37.25.92:4088/udp/225.52.53.70:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2" tvg-shift="-2" shift="+2",2х2 (+2)
-http://93.120.157.254:4088/udp/233.99.61.207:5000
+http://95.37.25.92:4088/udp/233.99.61.207:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2х2
-http://93.120.157.254:4088/udp/225.52.123.224:5000
+http://95.37.25.92:4088/udp/225.52.123.224:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2х2
-http://93.120.157.254:4088/udp/225.52.221.201:5000
+http://95.37.25.92:4088/udp/225.52.221.201:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2х2
-http://93.120.157.254:4088/udp/233.99.61.200:5000
+http://95.37.25.92:4088/udp/233.99.61.200:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/802.png" logo="https://img12.lostpic.net/2018/05/12/b819ca9b974cb075d4c0751a98d2b23a.png" channelId="2719" tvg-id="cartoon-network",Cartoon network HD
-http://93.120.157.254:4088/udp/225.52.143.76:5000
+http://95.37.25.92:4088/udp/225.52.143.76:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
-http://93.120.157.254:4088/udp/225.52.20.71:5000
+http://95.37.25.92:4088/udp/225.52.20.71:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
-http://93.120.157.254:4088/udp/225.52.221.71:5000
+http://95.37.25.92:4088/udp/225.52.221.71:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
-http://93.120.157.254:4088/udp/225.52.223.71:5000
+http://95.37.25.92:4088/udp/225.52.223.71:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
-http://93.120.157.254:4088/udp/233.99.61.42:5000
+http://95.37.25.92:4088/udp/233.99.61.42:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/mult_small.jpg" logo="https://img12.lostpic.net/2018/05/19/ddb503f59b0871d804ef8532e643d7d5.png" channelId="1722" tvg-id="mult",Мульт
-http://93.120.157.254:4088/udp/225.52.123.91:5000
+http://95.37.25.92:4088/udp/225.52.123.91:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/multilandia-logo.jpg" logo="https://receiver.in.ua/wp-content/uploads/2020/08/9C83BB8C82B8BBB0BDB4B88F.png" channelId="186" tvg-id="multimania",Мультиландия
-http://93.120.157.254:4088/udp/225.52.123.145:5000
+http://95.37.25.92:4088/udp/225.52.123.145:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/multmus.jpg" logo="http://televizor.org/img/logopit/9C83BB8C82B8BC83B78BBAB0.png" channelId="3704" tvg-id="multimuzyka",МультиМузыка
-http://93.120.157.254:4088/udp/225.52.123.76:5000
+http://95.37.25.92:4088/udp/225.52.123.76:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://pbs.twimg.com/profile_images/1213179665852108800/ElAdXUrf_400x400.jpg" logo="http://img12.lostpic.net/2018/05/21/c31ba800328c5312ccb011680c81b3fc.png" channelId="41" tvg-id="nickelodeon-ru",Nickelodeon
-http://93.120.157.254:4088/udp/225.52.123.90:5000
+http://95.37.25.92:4088/udp/225.52.123.90:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://satcom28.ru/images/channel_icon/186.png" logo="https://img16.lostpic.net/2019/06/22/709fec6ef4b1f5c8ac7a4048ce2e57ff.png" channelId="39" tvg-id="detsky-mir",Детский Мир
-http://93.120.157.254:4088/udp/225.52.123.97:5000
+http://95.37.25.92:4088/udp/225.52.123.97:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://telesputnik.ru/upload/iblock/4e4/Mama_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_4AB0_13_70_1680000_0_0_0.png" channelId="245" tvg-id="mama",Мама
-http://93.120.157.254:4088/udp/225.52.123.96:5000
+http://95.37.25.92:4088/udp/225.52.123.96:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.appello.rs/wp-content/uploads/2020/03/518ef8a1e68e742b275b0605330bd3d2.jpg" logo="http://img12.lostpic.net/2018/05/21/711e1e74c79326dd4f9b3f4ea6b7c618.png" channelId="171" tvg-id="da-vinci",Da Vinci Learning
-http://93.120.157.254:4088/udp/225.52.123.78:5000
+http://95.37.25.92:4088/udp/225.52.123.78:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/disneyru.png" channelId="19" tvg-id="disney" tvg-shift="-2" shift="+2",Disney (+2)
-http://93.120.157.254:4088/udp/225.52.20.223:5000
+http://95.37.25.92:4088/udp/225.52.20.223:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/disneyru.png" channelId="19" tvg-id="disney",Disney
-http://93.120.157.254:4088/udp/225.52.123.223:5000
+http://95.37.25.92:4088/udp/225.52.123.223:5000
 #EXTINF:-1 group-title="Детские" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/disneyru.png" channelId="19" tvg-id="disney",Disney
-http://93.120.157.254:4088/udp/225.52.23.223:5000
+http://95.37.25.92:4088/udp/225.52.23.223:5000
 #EXTINF:-1 group-title="Детские",O!
-http://93.120.157.254:4088/udp/225.52.123.180:5000
+http://95.37.25.92:4088/udp/225.52.123.180:5000
 #EXTINF:-1 group-title="Детские",Уник-Ум
-http://93.120.157.254:4088/udp/225.52.123.92:5000
+http://95.37.25.92:4088/udp/225.52.123.92:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://img.rnx.ru/logotvchannel/193.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A5_4_70_1680000_0_0_0.png" channelId="303" tvg-id="russky-bestseller",Русский бестселлер
-http://93.120.157.254:4088/udp/225.52.123.50:5000
-#EXTINF:-1 group-title="Кино" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_GE6NAgE6.png?98279084963" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C6_7_70_1680000_0_0_0.png" channelId="188" tvg-id="sony-tv",Sony
-http://93.120.157.254:4088/udp/225.52.123.27:5000
+http://95.37.25.92:4088/udp/225.52.123.50:5000
+#EXTINF:-1 group-title="Кино" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_GE6NAgE6.png?981564924656" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C6_7_70_1680000_0_0_0.png" channelId="188" tvg-id="sony-tv",Sony
+http://95.37.25.92:4088/udp/225.52.123.27:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_dekt.jpg" logo="https://img12.lostpic.net/2018/06/07/f414d3aa6e9aac36a1876411813c0e5f.png" channelId="1628" tvg-id="russky-detektiv",Русский детектив
-http://93.120.157.254:4088/udp/225.52.123.51:5000
+http://95.37.25.92:4088/udp/225.52.123.51:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/0147.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/01/cba97aa39af4acaf5b182241e0fe9938.png" channelId="342" tvg-id="kino-tv",Кино ТВ HD
-http://93.120.157.254:4088/udp/225.52.143.85:5000
+http://95.37.25.92:4088/udp/225.52.143.85:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/0293.png" logo="http://infoua.biz/image/tv/stream/ilplus.png" channelId="190" tvg-id="illuzion-plus",Иллюзион +
-http://93.120.157.254:4088/udp/225.52.123.22:5000
+http://95.37.25.92:4088/udp/225.52.123.22:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/19102.png" logo="https://epgservice.ru/upload/logo/000000023.jpg" channelId="66" tvg-id="tv1000",TV1000
-http://93.120.157.254:4088/udp/225.52.123.19:5000
+http://95.37.25.92:4088/udp/225.52.123.19:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/19103.png" logo="https://epgservice.ru/upload/logo/000000208.jpg" channelId="214" tvg-id="tv1000-action",TV1000 Action
-http://93.120.157.254:4088/udp/225.52.123.18:5000
+http://95.37.25.92:4088/udp/225.52.123.18:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/424.png" logo="https://toplogos.ru/images/logo-russkiy-roman.png" channelId="198" tvg-id="russky-roman",Русский Роман
-http://93.120.157.254:4088/udp/225.52.123.49:5000
+http://95.37.25.92:4088/udp/225.52.123.49:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/6230.png" logo="https://img10.lostpic.net/2020/03/18/448a2ea7c002833806134cdb5d75e777.png" channelId="3922" tvg-id="pobeda",Победа HD
-http://93.120.157.254:4088/udp/225.52.143.122:5000
+http://95.37.25.92:4088/udp/225.52.143.122:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://only4.tv/ch/6263.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A0B58280BE.png" channelId="246" tvg-id="retro-tv",Ретро
-http://93.120.157.254:4088/udp/225.52.123.48:5000
+http://95.37.25.92:4088/udp/225.52.123.48:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d4ac0b950e622de29836fe186184f901.jpg" logo="http://tricolor-38.ru/KANALY_4/amedia_A2-HD.png" channelId="914" tvg-id="amedia2",Amedia 2 HD
-http://93.120.157.254:4088/udp/225.52.143.89:5000
+http://95.37.25.92:4088/udp/225.52.143.89:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f0cb517bcd62619ecc79672ef0c45615.jpg" logo="http://tricolor-38.ru/KANALY_4/1-nd.png" channelId="913" tvg-id="amedia1",Amedia 1 HD
-http://93.120.157.254:4088/udp/225.52.143.29:5000
+http://95.37.25.92:4088/udp/225.52.143.29:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://standart.tv/storage/channels/19/default/NIIKxygOqxiqMdtWJyNx.png" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
-http://93.120.157.254:4088/udp/225.52.123.29:5000
+http://95.37.25.92:4088/udp/225.52.123.29:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://tv.kubtel.ru/tv_icon/domkino.png" logo="http://teledays.net/images/dom_kino.png" channelId="68" tvg-id="domkino",Дом кино
-http://93.120.157.254:4088/udp/225.52.123.33:5000
+http://95.37.25.92:4088/udp/225.52.123.33:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinohit.png" channelId="409" tvg-id="kinoxit",Кинохит HD
-http://93.120.157.254:4088/udp/225.52.143.105:5000
+http://95.37.25.92:4088/udp/225.52.143.105:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinomiks.png" logo="http://teledays.net/images/kinomiks.png" channelId="270" tvg-id="kinomiks",КИНОМИКС
-http://93.120.157.254:4088/udp/225.52.123.40:5000
+http://95.37.25.92:4088/udp/225.52.123.40:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера HD
-http://93.120.157.254:4088/udp/225.52.143.108:5000
+http://95.37.25.92:4088/udp/225.52.143.108:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosemya.png" channelId="568" tvg-id="kinosemiya",Киносемья HD
-http://93.120.157.254:4088/udp/225.52.143.106:5000
+http://95.37.25.92:4088/udp/225.52.143.106:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://img1.freepng.ru/20180526/ssz/kisspng-paramount-pictures-paramount-channel-television-ch-5b0911313c7998.5096317415273208812477.jpg" logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-Paramount-Channel-HD.png" channelId="1719" tvg-id="paramount-channel",Paramount channel
-http://93.120.157.254:4088/udp/225.52.123.44:5000
+http://95.37.25.92:4088/udp/225.52.123.44:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://s3.spbtv.com/rosing-production/80d3d63b673986b5093f_250x250c.png" logo="https://antifriz.tv/storage/images/channel_logos/russkij-iluzion.png" channelId="189" tvg-id="russky-illuzion",Русский Иллюзион
-http://93.120.157.254:4088/udp/225.52.123.23:5000
+http://95.37.25.92:4088/udp/225.52.123.23:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://telesputnik.ru/upload/iblock/494/Cinema_b.jpg" logo="https://img10.lostpic.net/2020/01/02/083618900093ef1119b84549f350cfcc.png" channelId="181" tvg-id="cinema-ru",Cinema
-http://93.120.157.254:4088/udp/225.52.123.87:5000
+http://95.37.25.92:4088/udp/225.52.123.87:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://tv.nalench.com/uploads/screenshots/a1.jpg" logo="http://televizor.org/img/logopit/Amedia01.png" channelId="913" tvg-id="amedia1",Amedia 1
-http://93.120.157.254:4088/udp/225.52.123.36:5000
+http://95.37.25.92:4088/udp/225.52.123.36:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://tv.nalench.com/uploads/screenshots/a2.jpg" logo="http://televizor.org/img/logopit/Amedia02.png" channelId="914" tvg-id="amedia2",Amedia 2
-http://93.120.157.254:4088/udp/225.52.123.39:5000
+http://95.37.25.92:4088/udp/225.52.123.39:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1168.jpg" logo="https://www.mr-info.ru/wp-content/uploads/2020/10/000000024.png" channelId="65" tvg-id="tv1000-russkoe-kino",TV1000 Русское Кино
-http://93.120.157.254:4088/udp/225.52.123.24:5000
+http://95.37.25.92:4088/udp/225.52.123.24:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/303.jpg" channelId="208" tvg-id="fox",Fox HD
-http://93.120.157.254:4088/udp/225.52.143.17:5000
+http://95.37.25.92:4088/udp/225.52.143.17:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.goldmir.net/uploads/tv/channel/83/logo_big.jpg" logo="https://antifriz.tv/storage/images/channel_logos/fox-life-hd.png" channelId="205" tvg-id="foxlife",Fox Life HD
-http://93.120.157.254:4088/udp/225.52.143.5:5000
+http://95.37.25.92:4088/udp/225.52.143.5:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-TV-XXI-92B5BA.png" logo="https://img12.lostpic.net/2018/05/21/258a6092abd6a9aa93b7d48d0c947aa0.png" channelId="193" tvg-id="tvxxi",TV XXI
-http://93.120.157.254:4088/udp/225.52.123.21:5000
+http://95.37.25.92:4088/udp/225.52.123.21:5000
 #EXTINF:-1 group-title="Кино",O! Кино
-http://93.120.157.254:4088/udp/225.52.123.70:5000
+http://95.37.25.92:4088/udp/225.52.123.70:5000
 #EXTINF:-1 group-title="Кино",Sony HD
-http://93.120.157.254:4088/udp/225.52.143.16:5000
+http://95.37.25.92:4088/udp/225.52.143.16:5000
 #EXTINF:-1 group-title="Кино",ZEE TV Russia
-http://93.120.157.254:4088/udp/225.52.123.47:5000
+http://95.37.25.92:4088/udp/225.52.123.47:5000
 #EXTINF:-1 group-title="Кино",Дом кино премиум HD
-http://93.120.157.254:4088/udp/225.52.143.42:5000
+http://95.37.25.92:4088/udp/225.52.143.42:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png" channelId="194" tvg-id="kinokomedia",Кинокомедия
-http://93.120.157.254:4088/udp/225.52.123.25:5000
+http://95.37.25.92:4088/udp/225.52.123.25:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosvidanie.png" channelId="413" tvg-id="kinosvidanie",Киносвидание HD
-http://93.120.157.254:4088/udp/225.52.143.107:5000
+http://95.37.25.92:4088/udp/225.52.143.107:5000
 #EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
-http://93.120.157.254:4088/udp/225.52.123.41:5000
+http://95.37.25.92:4088/udp/225.52.123.41:5000
 #EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
-http://93.120.157.254:4088/udp/225.52.123.43:5000
+http://95.37.25.92:4088/udp/225.52.123.43:5000
 #EXTINF:-1 group-title="Кино",НТВ-ХИТ
-http://93.120.157.254:4088/udp/225.52.123.198:5000
+http://95.37.25.92:4088/udp/225.52.123.198:5000
 #EXTINF:-1 group-title="Кино",РОДНОЕ КИНО
-http://93.120.157.254:4088/udp/225.52.123.42:5000
+http://95.37.25.92:4088/udp/225.52.123.42:5000
 #EXTINF:-1 group-title="Кино",Феникс Плюс Кино
-http://93.120.157.254:4088/udp/225.52.123.32:5000
+http://95.37.25.92:4088/udp/225.52.123.32:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/123.png" channelId="285" tvg-id="zhara",Жара HD
-http://93.120.157.254:4088/udp/225.52.143.95:5000
+http://95.37.25.92:4088/udp/225.52.143.95:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1313.png" logo="https://img11.lostpic.net/2018/09/08/b02c0c51da61494a0c5fe63a5396efd8.png" channelId="136" tvg-id="muztv" tvg-shift="-2" shift="+2",Муз ТВ (+2)
-http://93.120.157.254:4088/udp/225.52.20.222:5000
+http://95.37.25.92:4088/udp/225.52.20.222:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1313.png" logo="https://img11.lostpic.net/2018/09/08/b02c0c51da61494a0c5fe63a5396efd8.png" channelId="136" tvg-id="muztv",Муз ТВ
-http://93.120.157.254:4088/udp/225.52.20.220:5000
+http://95.37.25.92:4088/udp/225.52.20.220:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1313.png" logo="https://img11.lostpic.net/2018/09/08/b02c0c51da61494a0c5fe63a5396efd8.png" channelId="136" tvg-id="muztv",Муз ТВ
-http://93.120.157.254:4088/udp/225.52.221.220:5000
+http://95.37.25.92:4088/udp/225.52.221.220:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1313.png" logo="https://img11.lostpic.net/2018/09/08/b02c0c51da61494a0c5fe63a5396efd8.png" channelId="136" tvg-id="muztv",Муз ТВ
-http://93.120.157.254:4088/udp/225.52.223.220:5000
+http://95.37.25.92:4088/udp/225.52.223.220:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1313.png" logo="https://img11.lostpic.net/2018/09/08/b02c0c51da61494a0c5fe63a5396efd8.png" channelId="136" tvg-id="muztv",Муз ТВ
-http://93.120.157.254:4088/udp/233.99.61.133:5000
+http://95.37.25.92:4088/udp/233.99.61.133:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1809.png" logo="http://tv.tivix.co/uploads/posts/2018-12/1543641910__tor.png" channelId="44" tvg-id="mcm-top",MCM Top
-http://93.120.157.254:4088/udp/225.52.123.121:5000
+http://95.37.25.92:4088/udp/225.52.123.121:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/817.png" channelId="46" tvg-id="vh1-european",VH1 European
-http://93.120.157.254:4088/udp/225.52.123.120:5000
+http://95.37.25.92:4088/udp/225.52.123.120:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://zala.by/sites/default/files/imagecache/film_poster/tv_channels/logos/rutv.png" channelId="45" tvg-id="ru-tv",RU TV HD
-http://93.120.157.254:4088/udp/225.52.143.83:5000
+http://95.37.25.92:4088/udp/225.52.143.83:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://cdn.tvstart.com/img/channel/logo_64_498_1465552363.png" channelId="1483" tvg-id="iconcerts",iConcerts HD
-http://93.120.157.254:4088/udp/225.52.143.49:5000
+http://95.37.25.92:4088/udp/225.52.143.49:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://s6.vcdn.biz/static/f/1024242261/image.jpg" logo="https://img12.lostpic.net/2018/05/13/8329fd5d3eac9c39a4437f65307873d1.png" channelId="484" tvg-id="bridge-tv-ruxit",BRIDGE TV Русский Хит
-http://93.120.157.254:4088/udp/225.52.123.129:5000
+http://95.37.25.92:4088/udp/225.52.123.129:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://shgs.ru/images/tv/192.png" logo="https://img12.lostpic.net/2018/05/13/9d496ea43d12c92ed802419d0f5c79e4.png" channelId="25" tvg-id="bridge-tv",BRIDGE TV
-http://93.120.157.254:4088/udp/225.52.123.122:5000
+http://95.37.25.92:4088/udp/225.52.123.122:5000
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/640px-EuropaPlus.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
-http://93.120.157.254:4088/udp/225.52.123.123:5000
+http://95.37.25.92:4088/udp/225.52.123.123:5000
 #EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD
-http://93.120.157.254:4088/udp/225.52.123.116:5000
+http://95.37.25.92:4088/udp/225.52.123.116:5000
 #EXTINF:-1 group-title="Музыка",MUSIC BOX RU
-http://93.120.157.254:4088/udp/225.52.123.115:5000
+http://95.37.25.92:4088/udp/225.52.123.115:5000
 #EXTINF:-1 group-title="Музыка",O2 TV HD
-http://93.120.157.254:4088/udp/225.52.143.13:5000
+http://95.37.25.92:4088/udp/225.52.143.13:5000
 #EXTINF:-1 group-title="Музыка",RU_TV
-http://93.120.157.254:4088/udp/225.52.123.117:5000
+http://95.37.25.92:4088/udp/225.52.123.117:5000
 #EXTINF:-1 group-title="Музыка",THT MUSIC
-http://93.120.157.254:4088/udp/225.52.123.114:5000
+http://95.37.25.92:4088/udp/225.52.123.114:5000
 #EXTINF:-1 group-title="Музыка",Ля-минор ТВ
-http://93.120.157.254:4088/udp/225.52.123.119:5000
+http://95.37.25.92:4088/udp/225.52.123.119:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://domnet.me/images/picons/tvico_n805.png" channelId="701" tvg-id="ldpr-tv",ЛДПР ТВ
-http://93.120.157.254:4088/udp/225.52.123.177:5000
+http://95.37.25.92:4088/udp/225.52.123.177:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1519714029960.png" channelId="2201" tvg-id="tv5-monde",TV5 Monde HD
-http://93.120.157.254:4088/udp/225.52.143.100:5000
+http://95.37.25.92:4088/udp/225.52.143.100:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://ktv-informservice.ru/images/digitfiles/360.jpg" channelId="212" tvg-id="360-podmoskovie",360° Подмосковье HD
-http://93.120.157.254:4088/udp/225.52.143.44:5000
+http://95.37.25.92:4088/udp/225.52.143.44:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir" tvg-shift="-2" shift="+2",Мир (+2)
-http://93.120.157.254:4088/udp/225.52.20.172:5000
+http://95.37.25.92:4088/udp/225.52.20.172:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
-http://93.120.157.254:4088/udp/225.52.20.171:5000
+http://95.37.25.92:4088/udp/225.52.20.171:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
-http://93.120.157.254:4088/udp/225.52.221.171:5000
+http://95.37.25.92:4088/udp/225.52.221.171:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
-http://93.120.157.254:4088/udp/225.52.223.171:5000
+http://95.37.25.92:4088/udp/225.52.223.171:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
-http://93.120.157.254:4088/udp/233.99.61.40:5000
+http://95.37.25.92:4088/udp/233.99.61.40:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="http://tricolor-38.ru/KANALY_MTS/i.jpg" channelId="352" tvg-id="deutsche-welle-de",Deutsche Welle
-http://93.120.157.254:4088/udp/225.52.123.7:5000
+http://95.37.25.92:4088/udp/225.52.123.7:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://epg.domru.ru/chlogo/1474871998.png" channelId="139" tvg-id="france-24",France 24 HD
-http://93.120.157.254:4088/udp/225.52.143.96:5000
+http://95.37.25.92:4088/udp/225.52.143.96:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://93.120.157.254:4088/udp/225.52.20.250:5000
+http://95.37.25.92:4088/udp/225.52.20.250:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://93.120.157.254:4088/udp/225.52.20.61:5000
+http://95.37.25.92:4088/udp/225.52.20.61:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://93.120.157.254:4088/udp/225.52.221.61:5000
+http://95.37.25.92:4088/udp/225.52.221.61:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://93.120.157.254:4088/udp/225.52.221.65:5000
+http://95.37.25.92:4088/udp/225.52.221.65:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://93.120.157.254:4088/udp/225.52.223.65:5000
+http://95.37.25.92:4088/udp/225.52.223.65:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9" tvg-id="rbk",РБК
-http://93.120.157.254:4088/udp/225.52.123.9:5000
+http://95.37.25.92:4088/udp/225.52.123.9:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9" tvg-id="rbk",РБК-ТВ
-http://93.120.157.254:4088/udp/225.52.123.9:5000
+http://95.37.25.92:4088/udp/225.52.123.9:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://i1.wp.com/ecx.images-amazon.com/images/I/41M2TiBsEnL.png" channelId="397" tvg-id="nhk-world",NHK World Japan
-http://93.120.157.254:4088/udp/225.52.123.11:5000
-#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/121698279084963/dCXzaaJ6_200x200.jpg" logo="https://img12.lostpic.net/2018/05/19/617551a875662dce280a547306adb156.png" channelId="589" tvg-id="mir-24",Мир 24
-http://93.120.157.254:4088/udp/225.52.123.13:5000
+http://95.37.25.92:4088/udp/225.52.123.11:5000
+#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/1216981564924656/dCXzaaJ6_200x200.jpg" logo="https://img12.lostpic.net/2018/05/19/617551a875662dce280a547306adb156.png" channelId="589" tvg-id="mir-24",Мир 24
+http://95.37.25.92:4088/udp/225.52.123.13:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/732676684156145665/ibnA2mqB_400x400.jpg" channelId="217" tvg-id="euronews",Euronews
-http://93.120.157.254:4088/udp/225.52.123.6:5000
+http://95.37.25.92:4088/udp/225.52.123.6:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://s1.vcdn.biz/static/f/672118741/image.jpg" channelId="118" tvg-id="bbc",BBC World News
-http://93.120.157.254:4088/udp/225.52.123.10:5000
+http://95.37.25.92:4088/udp/225.52.123.10:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://toplogos.ru/images/logo-iz.png" channelId="1104" tvg-id="izvestia",Известия HD
-http://93.120.157.254:4088/udp/225.52.143.59:5000
+http://95.37.25.92:4088/udp/225.52.143.59:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://www.lyngsat.com/logo/tv/num/360-degree-novosti-ru.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/360-9DBEB2BE8182B8.png" channelId="3976" tvg-id="360-news",360° Новости HD
-http://93.120.157.254:4088/udp/225.52.143.71:5000
+http://95.37.25.92:4088/udp/225.52.143.71:5000
 #EXTINF:-1 group-title="Новости",CNN International
-http://93.120.157.254:4088/udp/225.52.123.169:5000
+http://95.37.25.92:4088/udp/225.52.123.169:5000
 #EXTINF:-1 group-title="Новости",RT HD
-http://93.120.157.254:4088/udp/225.52.143.25:5000
+http://95.37.25.92:4088/udp/225.52.143.25:5000
 #EXTINF:-1 group-title="Новости",RT Док HD
-http://93.120.157.254:4088/udp/225.52.143.54:5000
+http://95.37.25.92:4088/udp/225.52.143.54:5000
 #EXTINF:-1 group-title="Новости",RT
-http://93.120.157.254:4088/udp/225.52.123.5:5000
+http://95.37.25.92:4088/udp/225.52.123.5:5000
 #EXTINF:-1 group-title="Новости",Rai 1
-http://93.120.157.254:4088/udp/225.52.123.193:5000
+http://95.37.25.92:4088/udp/225.52.123.193:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://domnet.me/images/picons/tvico_n167.png" logo="http://tivix.co/uploads/posts/2014-02/1391857124_84679705-150x150.png" channelId="173" tvg-id="nauka-20",Наука 2.0
-http://93.120.157.254:4088/udp/225.52.123.65:5000
+http://95.37.25.92:4088/udp/225.52.123.65:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://isponline.com.ua/upload/image/tv/6116174a6e53da94308d85a5c7b78588.jpg" logo="http://img12.lostpic.net/2018/05/21/7d6ff6f1b0d613fe5dae61617e125bdf.png" channelId="165" tvg-id="viasat-explore",Viasat Explore
-http://93.120.157.254:4088/udp/225.52.123.55:5000
+http://95.37.25.92:4088/udp/225.52.123.55:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://isponline.com.ua/upload/image/tv/d279845b3c102dc4110f2d65fd4490e6.jpg" logo="http://img12.lostpic.net/2018/05/21/0dd3e8019c48369a1b0a1c281d452671.png" channelId="166" tvg-id="viasat-history",Viasat History
-http://93.120.157.254:4088/udp/225.52.123.56:5000
+http://95.37.25.92:4088/udp/225.52.123.56:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0203.png" logo="https://trinity-tv.net/storage/channels/dark_theme_143.png" channelId="207" tvg-id="national-geographic",National Geographic HD
-http://93.120.157.254:4088/udp/225.52.143.6:5000
+http://95.37.25.92:4088/udp/225.52.143.6:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0205.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/History-2-HD.png" channelId="1202" tvg-id="h2",History 2 HD
-http://93.120.157.254:4088/udp/225.52.143.78:5000
+http://95.37.25.92:4088/udp/225.52.143.78:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
-http://93.120.157.254:4088/udp/225.52.123.149:5000
+http://95.37.25.92:4088/udp/225.52.123.149:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1113.png" channelId="167" tvg-id="zoopark",Zooпарк
-http://93.120.157.254:4088/udp/225.52.123.61:5000
+http://95.37.25.92:4088/udp/225.52.123.61:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://img12.lostpic.net/2018/05/12/ac1181fc284d31420e384db0f0406ae9.png" channelId="160" tvg-id="nostalgia",Ностальгия
-http://93.120.157.254:4088/udp/225.52.123.85:5000
+http://95.37.25.92:4088/udp/225.52.123.85:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/20101.png" logo="https://trinity-tv.net/storage/channels/dark_theme_524.png" channelId="206" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://93.120.157.254:4088/udp/225.52.143.7:5000
+http://95.37.25.92:4088/udp/225.52.143.7:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/2128.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_7D_1_70_1680000_0_0_0.png" channelId="3872" tvg-id="dikiy",Дикий
-http://93.120.157.254:4088/udp/225.52.123.113:5000
+http://95.37.25.92:4088/udp/225.52.123.113:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/2202.png" logo="https://trinity-tv.net/storage/channels/dark_theme_453.png" channelId="240" tvg-id="animal-planet",Animal Planet HD
-http://93.120.157.254:4088/udp/225.52.143.19:5000
+http://95.37.25.92:4088/udp/225.52.143.19:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/26006.png" logo="https://trinity-tv.net/storage/channels/dark_theme_258.png" channelId="235" tvg-id="travel-channel",Travel Channel HD
-http://93.120.157.254:4088/udp/225.52.143.57:5000
+http://95.37.25.92:4088/udp/225.52.143.57:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6299.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/HGTV.png" channelId="1418" tvg-id="hgtv",HGTV HD
-http://93.120.157.254:4088/udp/225.52.143.149:5000
+http://95.37.25.92:4088/udp/225.52.143.149:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6306.png" logo="https://img15.lostpic.net/2019/10/19/3fcd92abd2106b6cf32bf01ed51f11bd.png" channelId="3918" tvg-id="bolshaya-azia",Большая Азия HD
-http://93.120.157.254:4088/udp/225.52.143.91:5000
+http://95.37.25.92:4088/udp/225.52.143.91:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png" logo="https://trinity-tv.net/storage/channels/dark_theme_392.png" channelId="50" tvg-id="animal-planet",Animal Planet
-http://93.120.157.254:4088/udp/225.52.123.60:5000
+http://95.37.25.92:4088/udp/225.52.123.60:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/807.png" channelId="59" tvg-id="id-xtra-ru",ID Xtra
-http://93.120.157.254:4088/udp/225.52.123.83:5000
+http://95.37.25.92:4088/udp/225.52.123.83:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/813.png" logo="https://trinity-tv.net/storage/channels/dark_theme_190.png" channelId="56" tvg-id="national-geographic",National Geographic
-http://93.120.157.254:4088/udp/225.52.123.54:5000
+http://95.37.25.92:4088/udp/225.52.123.54:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/815.png" logo="http://img16.lostpic.net/2019/04/14/f3e939c61b0651dd098e482de3813ce1.png" channelId="1040" tvg-id="tlc",TLC HD
-http://93.120.157.254:4088/udp/225.52.143.36:5000
+http://95.37.25.92:4088/udp/225.52.143.36:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/04ae9f3537063ac965be96d757ed53ac.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/94B8BAB08F-BE85BE82B0-HD.png" channelId="3881" tvg-id="dikaya-oxota-hd",Дикая охота HD
-http://93.120.157.254:4088/udp/225.52.143.113:5000
+http://95.37.25.92:4088/udp/225.52.143.113:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/cb17ad567438ca901cfd50005ed9a4fe.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/94B8BAB08F-808BB1B0BBBAB0-HD.png" channelId="3882" tvg-id="dikaya-rybalka-hd",Дикая рыбалка HD
-http://93.120.157.254:4088/udp/225.52.143.114:5000
+http://95.37.25.92:4088/udp/225.52.143.114:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/1b311575789dd5e9ec01807a4e169b11.jpg" logo="http://nktv.mk.ua/assets/components/nktv/channels/naturelogo.png" channelId="172" tvg-id="viasat-nature",Viasat Nature
-http://93.120.157.254:4088/udp/225.52.123.80:5000
+http://95.37.25.92:4088/udp/225.52.123.80:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/abdf15815cf16f05c8f633fa55f6ae38.png" logo="http://tricolor-38.ru/KANALY_3/food_network_hd_logo.png" channelId="1720" tvg-id="food-network",Food Network HD
-http://93.120.157.254:4088/udp/225.52.143.14:5000
+http://95.37.25.92:4088/udp/225.52.143.14:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://tricolor-38.ru/TRICOLOR_KANALY/Moja_planeta-hd.png" logo="http://tv-fresh.org/uploads/posts/2020-04/1587902035_moyaplaneta.png" channelId="1762" tvg-id="moya-planeta",Моя Планета HD
-http://93.120.157.254:4088/udp/225.52.143.43:5000
+http://95.37.25.92:4088/udp/225.52.143.43:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.oreol.tv/img/usadba1.jpg" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222" tvg-id="usadba",Усадьба
-http://93.120.157.254:4088/udp/225.52.123.68:5000
+http://95.37.25.92:4088/udp/225.52.123.68:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/38273573bb94690cb9adef12aa685d39_high.png" channelId="596" tvg-id="travel-adventure",Travel+Adventure HD
-http://93.120.157.254:4088/udp/225.52.143.80:5000
+http://95.37.25.92:4088/udp/225.52.143.80:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/38273573bb94690cb9adef12aa685d39_high.png" channelId="596" tvg-id="travel-adventure",Travel+Adventure HD
-http://93.120.157.254:4088/udp/225.52.143.8:5000
+http://95.37.25.92:4088/udp/225.52.143.8:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325" tvg-id="zagorodnaya-zhizn",Загородная жизнь
-http://93.120.157.254:4088/udp/225.52.143.139:5000
+http://95.37.25.92:4088/udp/225.52.143.139:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtghd_black.png" logo="https://img12.lostpic.net/2018/05/12/26a28acef5c59295275b208482ea0109.png" channelId="1494" tvg-id="rtg-hd",RTG HD
-http://93.120.157.254:4088/udp/225.52.143.53:5000
+http://95.37.25.92:4088/udp/225.52.143.53:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/morskoy.png" channelId="869" tvg-id="morskoy",Морской HD
-http://93.120.157.254:4088/udp/225.52.143.82:5000
+http://95.37.25.92:4088/udp/225.52.143.82:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kis.lt/wp-content/uploads/2020/12/e3a5231a398effae0ae93d6e5368293b.jpg" logo="https://www.cableman.ru/sites/default/files/viasat_nature_hd.png" channelId="757" tvg-id="viasat-nature",Viasat Nature HD
-http://93.120.157.254:4088/udp/225.52.143.98:5000
+http://95.37.25.92:4088/udp/225.52.143.98:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://ministar.ru/upload/medialibrary/081/08180a6494e2dcbb2ce6de461357d81e.png" logo="https://b.radikal.ru/b09/1908/ee/68ff27eaa823.png" channelId="57" tvg-id="discovery-channel",Discovery Channel
-http://93.120.157.254:4088/udp/225.52.123.59:5000
+http://95.37.25.92:4088/udp/225.52.123.59:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://real.su/wp-content/uploads/2020/06/ohota-i-ribalka-icon.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/9E85BE82B0-B8-A08BB1B0BBBAB0.png" channelId="221" tvg-id="oxota-i-rybalka",Охота и Рыбалка
-http://93.120.157.254:4088/udp/225.52.123.67:5000
+http://95.37.25.92:4088/udp/225.52.123.67:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" logo="http://tv-fresh.org/uploads/posts/2020-04/1587902035_moyaplaneta.png" channelId="53" tvg-id="moya-planeta",Моя Планета
-http://93.120.157.254:4088/udp/225.52.123.58:5000
+http://95.37.25.92:4088/udp/225.52.123.58:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://s3.spbtv.com/rosing-production/09e2cc35c375f04af259_250x250c.jpg" logo="https://s55424.cdn.ngenix.net/static/i/logo.png" channelId="1779" tvg-id="krasnaya-linia",Красная линия
-http://93.120.157.254:4088/udp/225.52.123.15:5000
+http://95.37.25.92:4088/udp/225.52.123.15:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://telesputnik.ru/upload/iblock/1c4/logotip_telekanal_muzhskoy_1.jpg" logo="http://keo.my1.ru/_ld/7/708.png" channelId="323" tvg-id="muzhskoy",Мужской
-http://93.120.157.254:4088/udp/225.52.123.46:5000
+http://95.37.25.92:4088/udp/225.52.123.46:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://telesputnik.ru/upload/iblock/e4b/eda_premium_b.png" logo="http://teledays.net/images/eda-premium.png" channelId="232" tvg-id="eda-hd",Еда Премиум HD
-http://93.120.157.254:4088/udp/225.52.143.52:5000
+http://95.37.25.92:4088/udp/225.52.143.52:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://ttk-temirtau.kz/wp-content/uploads/2020/10/5_1947871_ru_536ba857a45304999b12bd828a2a2907.jpg" logo="https://img16.lostpic.net/2019/07/24/a676821c1f5a8832ea35fe4e9830438e.png" channelId="335" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
-http://93.120.157.254:4088/udp/225.52.143.51:5000
+http://95.37.25.92:4088/udp/225.52.143.51:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/doktor.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51E_D_70_1680000_0_0_0.png" channelId="3647" tvg-id="doktor",Доктор
-http://93.120.157.254:4088/udp/225.52.123.81:5000
+http://95.37.25.92:4088/udp/225.52.123.81:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/istorya_tv.jpg" logo="http://tvhistory.rfn.ru/i/logo_print.png" channelId="887" tvg-id="istoria",История
-http://93.120.157.254:4088/udp/225.52.123.86:5000
+http://95.37.25.92:4088/udp/225.52.123.86:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1536.jpg" logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-A2B0B9BD8B-93B0BBB0BA82B8BAB8-HD.png" channelId="391" tvg-id="galaxy-tv",Galaxy HD
-http://93.120.157.254:4088/udp/225.52.143.121:5000
+http://95.37.25.92:4088/udp/225.52.143.121:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.oreol.tv/img/tlc_1.jpg" logo="https://img10.lostpic.net/2019/03/11/fe93d9a9fefbc751cc8c349412a6c464.png" channelId="67" tvg-id="tlc",TLC
-http://93.120.157.254:4088/udp/225.52.123.111:5000
+http://95.37.25.92:4088/udp/225.52.123.111:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.sostav.ru/app/public/images/news/2014/03/12/FIRE_DC_HD_BLACK_RGB.jpg" logo="https://trinity-tv.net/storage/channels/dark_theme_336.png" channelId="341" tvg-id="discovery-channel",Discovery Channel HD
-http://93.120.157.254:4088/udp/225.52.143.18:5000
+http://95.37.25.92:4088/udp/225.52.143.18:5000
 #EXTINF:-1 group-title="Познавательные",Tехно 24
-http://93.120.157.254:4088/udp/225.52.123.57:5000
+http://95.37.25.92:4088/udp/225.52.123.57:5000
 #EXTINF:-1 group-title="Познавательные",АВТО 24 HD
-http://93.120.157.254:4088/udp/225.52.143.48:5000
+http://95.37.25.92:4088/udp/225.52.143.48:5000
 #EXTINF:-1 group-title="Познавательные",Национальный жилищный канал
-http://93.120.157.254:4088/udp/225.52.20.110:5000
+http://95.37.25.92:4088/udp/225.52.20.110:5000
 #EXTINF:-1 group-title="Познавательные",ПРОСВЕЩЕНИЕ
-http://93.120.157.254:4088/udp/225.52.123.79:5000
+http://95.37.25.92:4088/udp/225.52.123.79:5000
 #EXTINF:-1 group-title="Познавательные",Первый Образовательный
-http://93.120.157.254:4088/udp/225.52.123.73:5000
+http://95.37.25.92:4088/udp/225.52.123.73:5000
 #EXTINF:-1 group-title="Познавательные",Поехали
-http://93.120.157.254:4088/udp/225.52.143.46:5000
+http://95.37.25.92:4088/udp/225.52.143.46:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/BF8F82BDB886B0.png" logo="http://televizor.org/img/logopit/9F8F82BDB886B0.png" channelId="26" tvg-id="piatnica" tvg-shift="-2" shift="+2",Пятница (+2)
-http://93.120.157.254:4088/udp/225.52.20.152:5000
+http://95.37.25.92:4088/udp/225.52.20.152:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/BF8F82BDB886B0.png" logo="http://televizor.org/img/logopit/9F8F82BDB886B0.png" channelId="26" tvg-id="piatnica",Пятница
-http://93.120.157.254:4088/udp/225.52.20.151:5000
+http://95.37.25.92:4088/udp/225.52.20.151:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/BF8F82BDB886B0.png" logo="http://televizor.org/img/logopit/9F8F82BDB886B0.png" channelId="26" tvg-id="piatnica",Пятница
-http://93.120.157.254:4088/udp/225.52.221.151:5000
+http://95.37.25.92:4088/udp/225.52.221.151:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/09/WF_logo_BLACK_2017.jpg" channelId="258" tvg-id="world-fashion-channel",World Fashion
-http://93.120.157.254:4088/udp/225.52.123.106:5000
+http://95.37.25.92:4088/udp/225.52.123.106:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/1009.png" channelId="26" tvg-id="piatnica",Пятница!
-http://93.120.157.254:4088/udp/225.52.223.151:5000
+http://95.37.25.92:4088/udp/225.52.223.151:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/2105.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/94B8B0BBBEB3B8-BE-808BB1B0BBBAB5.png" channelId="3709" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке HD
-http://93.120.157.254:4088/udp/225.52.143.87:5000
+http://95.37.25.92:4088/udp/225.52.143.87:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/5524.png" channelId="3871" tvg-id="anekdottv",Анекдот ТВ
-http://93.120.157.254:4088/udp/225.52.123.178:5000
+http://95.37.25.92:4088/udp/225.52.123.178:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6304.png" logo="https://img14.lostpic.net/2018/12/10/fceb8e2edc41b0b1c344ecc58412457e.png" channelId="3926" tvg-id="fanhd",FAN HD
-http://93.120.157.254:4088/udp/225.52.143.119:5000
+http://95.37.25.92:4088/udp/225.52.143.119:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://img15.lostpic.net/2020/02/05/0dbc9a1da465b76fce9aaa5df3fba86d.png" channelId="77" tvg-id="tnt4",ТНТ4 HD
-http://93.120.157.254:4088/udp/225.52.143.73:5000
+http://95.37.25.92:4088/udp/225.52.143.73:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/AE.png" channelId="23" tvg-id="yu",Ю
-http://93.120.157.254:4088/udp/225.52.123.222:5000
+http://95.37.25.92:4088/udp/225.52.123.222:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/AE.png" channelId="23" tvg-id="yu",Ю
-http://93.120.157.254:4088/udp/233.99.61.28:5000
+http://95.37.25.92:4088/udp/233.99.61.28:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/bober_1.jpg" logo="http://crushgame.ru/channels_logos/Cognitive/Bober.png" channelId="646" tvg-id="bobior",Бобёр
-http://93.120.157.254:4088/udp/225.52.123.105:5000
+http://95.37.25.92:4088/udp/225.52.123.105:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/225.52.123.225:5000
+http://95.37.25.92:4088/udp/225.52.123.225:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/225.52.123.250:5000
+http://95.37.25.92:4088/udp/225.52.123.250:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/225.52.20.236:5000
+http://95.37.25.92:4088/udp/225.52.20.236:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/225.52.221.205:5000
+http://95.37.25.92:4088/udp/225.52.221.205:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/225.52.223.205:5000
+http://95.37.25.92:4088/udp/225.52.223.205:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/A7B5.png" channelId="22" tvg-id="che",Че
-http://93.120.157.254:4088/udp/233.171.199.7:5000
+http://95.37.25.92:4088/udp/233.171.199.7:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/super_s.jpg" logo="http://infoua.biz/image/tv/stream/super_ru.png" channelId="3876" tvg-id="super" tvg-shift="-2" shift="+2",Супер (+2)
-http://93.120.157.254:4088/udp/225.52.23.202:5000
+http://95.37.25.92:4088/udp/225.52.23.202:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/super_s.jpg" logo="http://infoua.biz/image/tv/stream/super_ru.png" channelId="3876" tvg-id="super",Супер
-http://93.120.157.254:4088/udp/225.52.123.201:5000
+http://95.37.25.92:4088/udp/225.52.123.201:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/super_s.jpg" logo="http://infoua.biz/image/tv/stream/super_ru.png" channelId="3876" tvg-id="super",Супер
-http://93.120.157.254:4088/udp/225.52.23.201:5000
+http://95.37.25.92:4088/udp/225.52.23.201:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4" tvg-shift="-2" shift="+2",ТНТ4 (+2)
-http://93.120.157.254:4088/udp/225.52.23.227:5000
+http://95.37.25.92:4088/udp/225.52.23.227:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
-http://93.120.157.254:4088/udp/225.52.123.226:5000
+http://95.37.25.92:4088/udp/225.52.123.226:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
-http://93.120.157.254:4088/udp/225.52.221.226:5000
+http://95.37.25.92:4088/udp/225.52.221.226:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
-http://93.120.157.254:4088/udp/225.52.223.226:5000
+http://95.37.25.92:4088/udp/225.52.223.226:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
-http://93.120.157.254:4088/udp/225.52.23.226:5000
+http://95.37.25.92:4088/udp/225.52.23.226:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://satcom28.ru/images/channel_icon/143.png" logo="https://img12.lostpic.net/2018/06/07/547d1ba3381cb41efb743593c19c124a.png" channelId="581" tvg-id="teatr",Театр HD
-http://93.120.157.254:4088/udp/225.52.143.118:5000
+http://95.37.25.92:4088/udp/225.52.143.118:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://telesputnik.ru/upload/iblock/07b/KVN-TV_b.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_7C_1_70_1680000_0_0_0.png" channelId="3047" tvg-id="kvn-tv",КВН ТВ
-http://93.120.157.254:4088/udp/225.52.123.168:5000
+http://95.37.25.92:4088/udp/225.52.123.168:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/237/logo_big.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A3_4_70_1680000_0_0_0.png" channelId="141" tvg-id="sarafan",Сарафан
-http://93.120.157.254:4088/udp/225.52.123.107:5000
+http://95.37.25.92:4088/udp/225.52.123.107:5000
 #EXTINF:-1 group-title="Развлекательные",CTC Love (+2)
-http://93.120.157.254:4088/udp/225.52.23.20:5000
+http://95.37.25.92:4088/udp/225.52.23.20:5000
 #EXTINF:-1 group-title="Развлекательные",CTC Love
-http://93.120.157.254:4088/udp/225.52.123.20:5000
+http://95.37.25.92:4088/udp/225.52.123.20:5000
 #EXTINF:-1 group-title="Развлекательные",myZen TV HD
-http://93.120.157.254:4088/udp/225.52.143.9:5000
+http://95.37.25.92:4088/udp/225.52.143.9:5000
 #EXTINF:-1 group-title="Развлекательные",Все ТВ
-http://93.120.157.254:4088/udp/233.99.61.135:5000
+http://95.37.25.92:4088/udp/233.99.61.135:5000
 #EXTINF:-1 group-title="Развлекательные",Жар-птица
-http://93.120.157.254:4088/udp/225.52.123.157:5000
+http://95.37.25.92:4088/udp/225.52.123.157:5000
 #EXTINF:-1 group-title="Развлекательные",Камин HD
-http://93.120.157.254:4088/udp/233.99.61.131:5000
+http://95.37.25.92:4088/udp/233.99.61.131:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif" logo="http://img12.lostpic.net/2018/06/07/19d5295055ff37bc324a625f5988d2d7.png" channelId="811" tvg-id="volga",Волга
-http://93.120.157.254:4088/udp/225.52.221.213:5000
+http://95.37.25.92:4088/udp/225.52.221.213:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif" logo="http://img12.lostpic.net/2018/06/07/19d5295055ff37bc324a625f5988d2d7.png" channelId="811" tvg-id="volga",Волга
-http://93.120.157.254:4088/udp/225.52.223.213:5000
+http://95.37.25.92:4088/udp/225.52.223.213:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1499776279320.png" channelId="34" tvg-id="tnv",ТНВ-Татарстан
-http://93.120.157.254:4088/udp/225.52.23.163:5000
+http://95.37.25.92:4088/udp/225.52.23.163:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://nntv.tv/_data/objects/0005/4417/icon.png" channelId="1388" tvg-id="nntv",ННТВ HD
-http://93.120.157.254:4088/udp/225.52.223.214:5000
+http://95.37.25.92:4088/udp/225.52.223.214:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://tricolor-38.ru/KANALY_4/Cenraljnoe_TV.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A6B5BD8280B0BB8CBDBEB5-A292.png" channelId="3955" tvg-id="centralnoye-tv",Центральное ТВ
-http://93.120.157.254:4088/udp/225.52.123.134:5000
+http://95.37.25.92:4088/udp/225.52.123.134:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС (Нижний Новгород)
-http://93.120.157.254:4088/udp/225.52.221.122:5000
+http://95.37.25.92:4088/udp/225.52.221.122:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://assets.limehd.tv/uploads/channel/10266/thumb_87df1e0325545e1f2f98943fe1ad9b43.png" channelId="1388" tvg-id="nntv",ННТВ (Россия 24)
-http://93.120.157.254:4088/udp/225.52.223.61:5000
+http://95.37.25.92:4088/udp/225.52.223.61:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://assets.limehd.tv/uploads/channel/10266/thumb_87df1e0325545e1f2f98943fe1ad9b43.png" channelId="1388" tvg-id="nntv",ННТВ
-http://93.120.157.254:4088/udp/225.52.221.214:5000
+http://95.37.25.92:4088/udp/225.52.221.214:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://epg.domru.ru/chlogo/1474881688.png" channelId="1485" tvg-id="tnv-planeta",ТНВ Планета
-http://93.120.157.254:4088/udp/225.52.23.249:5000
+http://95.37.25.92:4088/udp/225.52.23.249:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_24.png" channelId="296" tvg-id="belarus24",Беларусь 24
-http://93.120.157.254:4088/udp/225.52.123.155:5000
+http://95.37.25.92:4088/udp/225.52.123.155:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1 (НН)
-http://93.120.157.254:4088/udp/225.52.221.11:5000
+http://95.37.25.92:4088/udp/225.52.221.11:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1 (НН)
-http://93.120.157.254:4088/udp/225.52.221.15:5000
+http://95.37.25.92:4088/udp/225.52.221.15:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24 (НН)
-http://93.120.157.254:4088/udp/225.52.223.61:5000
+http://95.37.25.92:4088/udp/225.52.223.61:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://pbs.twimg.com/profile_images/1368145163/vremyan_logo_twitter_200x200.jpg" channelId="-1" tvg-id="vremia-n",Время Н
-http://93.120.157.254:4088/udp/225.52.221.215:5000
+http://95.37.25.92:4088/udp/225.52.221.215:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://telesputnik.ru/upload/iblock/d48/Belros_200.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_70F_12_70_1680000_0_0_0.png" channelId="3866" tvg-id="tro",БелРос
-http://93.120.157.254:4088/udp/225.52.123.153:5000
+http://95.37.25.92:4088/udp/225.52.123.153:5000
 #EXTINF:-1 group-title="Региoнальные" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A7B0B2B088-95BD.png" channelId="689" tvg-id="chavash-en",Чаваш Ен
-http://93.120.157.254:4088/udp/225.52.20.211:5000
+http://95.37.25.92:4088/udp/225.52.20.211:5000
 #EXTINF:-1 group-title="Региoнальные",5 Канал (Нижний Новгород)
-http://93.120.157.254:4088/udp/225.52.221.41:5000
+http://95.37.25.92:4088/udp/225.52.221.41:5000
 #EXTINF:-1 group-title="Региoнальные",Дзержинск
-http://93.120.157.254:4088/udp/225.52.221.217:5000
+http://95.37.25.92:4088/udp/225.52.221.217:5000
 #EXTINF:-1 group-title="Региoнальные",Дзержинск
-http://93.120.157.254:4088/udp/233.99.61.252:5000
+http://95.37.25.92:4088/udp/233.99.61.252:5000
 #EXTINF:-1 group-title="Региoнальные",К 16
-http://93.120.157.254:4088/udp/225.52.221.94:5000
+http://95.37.25.92:4088/udp/225.52.221.94:5000
 #EXTINF:-1 group-title="Региoнальные",НЖК
-http://93.120.157.254:4088/udp/225.52.20.110:5000
+http://95.37.25.92:4088/udp/225.52.20.110:5000
 #EXTINF:-1 group-title="Региoнальные",Нижний Новгород 24 HD
-http://93.120.157.254:4088/udp/225.52.223.230:5000
+http://95.37.25.92:4088/udp/225.52.223.230:5000
 #EXTINF:-1 group-title="Региoнальные",Первый Городской Нижний Новгород
-http://93.120.157.254:4088/udp/225.52.221.208:5000
+http://95.37.25.92:4088/udp/225.52.221.208:5000
 #EXTINF:-1 group-title="Региoнальные",Первый Городской Нижний Новгород
-http://93.120.157.254:4088/udp/225.52.223.208:5000
+http://95.37.25.92:4088/udp/225.52.223.208:5000
 #EXTINF:-1 group-title="Региoнальные",Первый российский национальный канал
-http://93.120.157.254:4088/udp/225.52.143.120:5000
+http://95.37.25.92:4088/udp/225.52.143.120:5000
 #EXTINF:-1 group-title="Региoнальные",Саров 24
-http://93.120.157.254:4088/udp/225.52.223.216:5000
+http://95.37.25.92:4088/udp/225.52.223.216:5000
 #EXTINF:-1 group-title="Региoнальные",Хабар 24 KZ HD
-http://93.120.157.254:4088/udp/225.52.143.45:5000
+http://95.37.25.92:4088/udp/225.52.143.45:5000
 #EXTINF:-1 group-title="Региoнальные",ШАЯН
-http://93.120.157.254:4088/udp/225.52.20.165:5000
+http://95.37.25.92:4088/udp/225.52.20.165:5000
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" channelId="244" tvg-id="spas",Спас
-http://93.120.157.254:4088/udp/225.52.20.111:5000
+http://95.37.25.92:4088/udp/225.52.20.111:5000
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" channelId="244" tvg-id="spas",Спас
-http://93.120.157.254:4088/udp/225.52.221.111:5000
+http://95.37.25.92:4088/udp/225.52.221.111:5000
 #EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" channelId="244" tvg-id="spas",Спас
-http://93.120.157.254:4088/udp/225.52.223.111:5000
+http://95.37.25.92:4088/udp/225.52.223.111:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://93.120.157.254:4088/udp/225.52.20.21:5000
+http://95.37.25.92:4088/udp/225.52.20.21:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://93.120.157.254:4088/udp/225.52.221.21:5000
+http://95.37.25.92:4088/udp/225.52.221.21:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://93.120.157.254:4088/udp/225.52.223.21:5000
+http://95.37.25.92:4088/udp/225.52.223.21:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n562.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-http://93.120.157.254:4088/udp/225.52.143.47:5000
+http://95.37.25.92:4088/udp/225.52.143.47:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0206.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F4A_C_70_1680000_0_0_0.png" channelId="226" tvg-id="kxl-hd",КХЛ HD
-http://93.120.157.254:4088/udp/225.52.143.27:5000
+http://95.37.25.92:4088/udp/225.52.143.27:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-http://93.120.157.254:4088/udp/225.52.143.61:5000
+http://95.37.25.92:4088/udp/225.52.143.61:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-http://93.120.157.254:4088/udp/225.52.143.3:5000
+http://95.37.25.92:4088/udp/225.52.143.3:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
-http://93.120.157.254:4088/udp/225.52.40.38:5000
+http://95.37.25.92:4088/udp/225.52.40.38:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1318.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_526_D_70_1680000_0_0_0.png" channelId="80" tvg-id="kxl",КХЛ
-http://93.120.157.254:4088/udp/225.52.123.132:5000
+http://95.37.25.92:4088/udp/225.52.123.132:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-http://93.120.157.254:4088/udp/225.52.143.39:5000
+http://95.37.25.92:4088/udp/225.52.143.39:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://93.120.157.254:4088/udp/225.52.143.40:5000
+http://95.37.25.92:4088/udp/225.52.143.40:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1403.png" logo="http://tricolor-38.ru/KANALY_3/match-premier_hd.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://93.120.157.254:4088/udp/225.52.143.4:5000
+http://95.37.25.92:4088/udp/225.52.143.4:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://93.120.157.254:4088/udp/225.52.143.38:5000
+http://95.37.25.92:4088/udp/225.52.143.38:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5532.png" logo="http://img16.lostpic.net/2019/04/24/f04844db3ecf5c94bafdf36984742b26.png" channelId="4642" name="UFC ТВ" tvg-id="ufc",UFC HD
-http://93.120.157.254:4088/udp/225.52.143.117:5000
+http://95.37.25.92:4088/udp/225.52.143.117:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/6261.png" logo="https://img16.lostpic.net/2019/11/02/7a61608ac96a5a4c4e1a774f408651d4.png" channelId="631" tvg-id="start",Старт HD
-http://93.120.157.254:4088/udp/225.52.143.136:5000
+http://95.37.25.92:4088/udp/225.52.143.136:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport-1-HD.png" logo="https://img10.lostpic.net/2020/03/18/fbb555a3a1f5ef2d794b3548642ea899.png" channelId="225" tvg-id="eurosport1",Eurosport 1 HD
-http://93.120.157.254:4088/udp/225.52.143.2:5000
+http://95.37.25.92:4088/udp/225.52.143.2:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport_2_HD.png" logo="https://img10.lostpic.net/2020/03/18/921e457897091d7b9220363c35ef45f4.png" channelId="933" tvg-id="eurosport2",Eurosport 2 HD
-http://93.120.157.254:4088/udp/225.52.143.140:5000
+http://95.37.25.92:4088/udp/225.52.143.140:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/TELEKARTA_KANAL/59c9ce.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b5cd566b95e57a85de08d98703ddafac.png" channelId="82" tvg-id="eurosport1",Eurosport 1
-http://93.120.157.254:4088/udp/225.52.123.130:5000
+http://95.37.25.92:4088/udp/225.52.123.130:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/TELEKARTA_KANAL/Eurosport_2.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f4a31f082386ec23014d2a6f0a6e8201.png" channelId="83" tvg-id="eurosport2",Eurosport 2
-http://93.120.157.254:4088/udp/225.52.123.131:5000
+http://95.37.25.92:4088/udp/225.52.123.131:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://assets.limehd.tv/uploads/channel/10232/thumb_28c4dae033c31ff06551d9d6173b5f9c.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
-http://93.120.157.254:4088/udp/225.52.40.39:5000
+http://95.37.25.92:4088/udp/225.52.40.39:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://assets.limehd.tv/uploads/channel/10233/thumb_a90f62dc350615b3946789c0886a6698.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
-http://93.120.157.254:4088/udp/225.52.40.40:5000
+http://95.37.25.92:4088/udp/225.52.40.40:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://i1.sndcdn.com/avatars-000606546579-e8w59f-t500x500.jpg" logo="http://baltic-sea-cup.ru/wp-content/uploads/2015/11/logo_warrior.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://93.120.157.254:4088/udp/225.52.123.150:5000
+http://95.37.25.92:4088/udp/225.52.123.150:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://olympic-history.ru/800/600/http/www.extremtv.ru/files/re-retro.png" channelId="154" tvg-id="russky-ekstrim",Русский Экстрим
-http://93.120.157.254:4088/udp/225.52.123.136:5000
+http://95.37.25.92:4088/udp/225.52.123.136:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://sport-tv-guide.live/images/stations/a1421.png" logo="https://img12.lostpic.net/2018/05/21/4639ff5deea141b9308356ac6727287f.png" channelId="3878" tvg-id="eurosport-gold",Eurosport Gold
-http://93.120.157.254:4088/udp/225.52.123.190:5000
+http://95.37.25.92:4088/udp/225.52.123.190:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/350x350/epg808.png" logo="https://norbi-tv.ru/pro/wp-content/uploads/2020/10/lUh2toMKwzm9bPP6Z3.png" channelId="84" tvg-id="match-nash-sport",МАТЧ! Страна
-http://93.120.157.254:4088/udp/225.52.123.141:5000
+http://95.37.25.92:4088/udp/225.52.123.141:5000
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" channelId="919" tvg-id="football-ru",Футбол
-http://93.120.157.254:4088/udp/225.52.123.138:5000
+http://95.37.25.92:4088/udp/225.52.123.138:5000
 #EXTINF:-1 group-title="Радио",Радио 1
-http://93.120.157.254:4088/udp/225.52.20.201:5000
+http://95.37.25.92:4088/udp/225.52.20.201:5000
 #EXTINF:-1 group-title="Радио",Радио 2
-http://93.120.157.254:4088/udp/225.52.20.202:5000
+http://95.37.25.92:4088/udp/225.52.20.202:5000
 #EXTINF:-1 group-title="Радио",Радио 3
-http://93.120.157.254:4088/udp/225.52.20.204:5000
+http://95.37.25.92:4088/udp/225.52.20.204:5000
 #EXTINF:-1 group-title="Радио",Радио 4
-http://93.120.157.254:4088/udp/225.52.20.205:5000
+http://95.37.25.92:4088/udp/225.52.20.205:5000
 #EXTINF:-1 group-title="Радио",Радио 5
-http://93.120.157.254:4088/udp/225.52.225.201:5000
+http://95.37.25.92:4088/udp/225.52.225.201:5000
 #EXTINF:-1 group-title="Радио",Радио 6
-http://93.120.157.254:4088/udp/225.52.225.202:5000
+http://95.37.25.92:4088/udp/225.52.225.202:5000
 #EXTINF:-1 group-title="Радио",Радио 7
-http://93.120.157.254:4088/udp/225.52.20.203:5000
+http://95.37.25.92:4088/udp/225.52.20.203:5000
 #EXTINF:-1 group-title="Радио",Радио 8
-http://93.120.157.254:4088/udp/225.52.20.206:5000
+http://95.37.25.92:4088/udp/225.52.20.206:5000
 #EXTINF:-1 group-title="Радио",Радио 9
-http://93.120.157.254:4088/udp/225.52.225.203:5000
+http://95.37.25.92:4088/udp/225.52.225.203:5000
