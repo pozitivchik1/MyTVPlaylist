@@ -1,5 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/denmsiptv.jpg",-rtn-n 25.05  1:17 iptvin.ru каналов 321 
+#EXTINF:-1 tvg-logo="http://host.iptvin.ru/images/denmsiptv.jpg",-rtn-n 05.06 17:19 iptvin.ru каналов 320 
 https://dl.dropbox.com/s/8nhn9v7x845qg5i/iptvin.ru.mp4
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
 http://95.37.25.92:4088/udp/225.52.221.1:5000
@@ -65,6 +65,8 @@ http://95.37.25.92:4088/udp/225.52.221.91:5000
 http://95.37.25.92:4088/udp/225.52.223.91:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/182.jpg" logo="https://img12.lostpic.net/2018/05/19/512e7079bd3b3c36a2204c05fc41938b.png" channelId="13" tvg-id="tvcentr" tvg-shift="-2" shift="+2",ТВЦ (+2)
 http://95.37.25.92:4088/udp/225.52.20.92:5000
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://iks-online.net/wp-content/uploads/2018/07/REN-TV-HD.png" logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/ren__0.png" channelId="120" tvg-id="rentv",Рен HD
+http://95.37.25.92:4088/udp/225.52.143.73:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",РЕН ТВ
 http://95.37.25.92:4088/udp/225.52.223.101:5000
 #EXTINF:-1 group-title="Эфирные" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",РЕН ТВ
@@ -177,7 +179,7 @@ http://95.37.25.92:4088/udp/225.52.123.180:5000
 http://95.37.25.92:4088/udp/225.52.123.92:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://img.rnx.ru/logotvchannel/193.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A5_4_70_1680000_0_0_0.png" channelId="303" tvg-id="russky-bestseller",Русский бестселлер
 http://95.37.25.92:4088/udp/225.52.123.50:5000
-#EXTINF:-1 group-title="Кино" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_GE6NAgE6.png?981564924656" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C6_7_70_1680000_0_0_0.png" channelId="188" tvg-id="sony-tv",Sony
+#EXTINF:-1 group-title="Кино" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_GE6NAgE6.png?984401900957" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C6_7_70_1680000_0_0_0.png" channelId="188" tvg-id="sony-tv",Sony
 http://95.37.25.92:4088/udp/225.52.123.27:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_dekt.jpg" logo="https://img12.lostpic.net/2018/06/07/f414d3aa6e9aac36a1876411813c0e5f.png" channelId="1628" tvg-id="russky-detektiv",Русский детектив
 http://95.37.25.92:4088/udp/225.52.123.51:5000
@@ -229,8 +231,6 @@ http://95.37.25.92:4088/udp/225.52.143.17:5000
 http://95.37.25.92:4088/udp/225.52.143.5:5000
 #EXTINF:-1 group-title="Кино" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-TV-XXI-92B5BA.png" logo="https://img12.lostpic.net/2018/05/21/258a6092abd6a9aa93b7d48d0c947aa0.png" channelId="193" tvg-id="tvxxi",TV XXI
 http://95.37.25.92:4088/udp/225.52.123.21:5000
-#EXTINF:-1 group-title="Кино",O! Кино
-http://95.37.25.92:4088/udp/225.52.123.70:5000
 #EXTINF:-1 group-title="Кино",Sony HD
 http://95.37.25.92:4088/udp/225.52.143.16:5000
 #EXTINF:-1 group-title="Кино",ZEE TV Russia
@@ -325,7 +325,7 @@ http://95.37.25.92:4088/udp/225.52.123.9:5000
 http://95.37.25.92:4088/udp/225.52.123.9:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://i1.wp.com/ecx.images-amazon.com/images/I/41M2TiBsEnL.png" channelId="397" tvg-id="nhk-world",NHK World Japan
 http://95.37.25.92:4088/udp/225.52.123.11:5000
-#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/1216981564924656/dCXzaaJ6_200x200.jpg" logo="https://img12.lostpic.net/2018/05/19/617551a875662dce280a547306adb156.png" channelId="589" tvg-id="mir-24",Мир 24
+#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/1216985869201276/dCXzaaJ6_200x200.jpg" logo="https://img12.lostpic.net/2018/05/19/617551a875662dce280a547306adb156.png" channelId="589" tvg-id="mir-24",Мир 24
 http://95.37.25.92:4088/udp/225.52.123.13:5000
 #EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/732676684156145665/ibnA2mqB_400x400.jpg" channelId="217" tvg-id="euronews",Euronews
 http://95.37.25.92:4088/udp/225.52.123.6:5000
@@ -401,7 +401,7 @@ http://95.37.25.92:4088/udp/225.52.143.8:5000
 http://95.37.25.92:4088/udp/225.52.143.139:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/rtghd_black.png" logo="https://img12.lostpic.net/2018/05/12/26a28acef5c59295275b208482ea0109.png" channelId="1494" tvg-id="rtg-hd",RTG HD
 http://95.37.25.92:4088/udp/225.52.143.53:5000
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/morskoy.png" channelId="869" tvg-id="morskoy",Морской HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/morskoy.png" channelId="869" tvg-id="morskoy",Моя стихия
 http://95.37.25.92:4088/udp/225.52.143.82:5000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://kis.lt/wp-content/uploads/2020/12/e3a5231a398effae0ae93d6e5368293b.jpg" logo="https://www.cableman.ru/sites/default/files/viasat_nature_hd.png" channelId="757" tvg-id="viasat-nature",Viasat Nature HD
 http://95.37.25.92:4088/udp/225.52.143.98:5000
@@ -457,8 +457,6 @@ http://95.37.25.92:4088/udp/225.52.143.87:5000
 http://95.37.25.92:4088/udp/225.52.123.178:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6304.png" logo="https://img14.lostpic.net/2018/12/10/fceb8e2edc41b0b1c344ecc58412457e.png" channelId="3926" tvg-id="fanhd",FAN HD
 http://95.37.25.92:4088/udp/225.52.143.119:5000
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://img15.lostpic.net/2020/02/05/0dbc9a1da465b76fce9aaa5df3fba86d.png" channelId="77" tvg-id="tnt4",ТНТ4 HD
-http://95.37.25.92:4088/udp/225.52.143.73:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/AE.png" channelId="23" tvg-id="yu",Ю
 http://95.37.25.92:4088/udp/225.52.123.222:5000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/AE.png" channelId="23" tvg-id="yu",Ю
