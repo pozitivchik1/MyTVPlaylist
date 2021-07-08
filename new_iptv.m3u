@@ -690,7 +690,7 @@ http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8?token=gelow74
 #EXTINF:-1 group-title="Украина",2+2
 http://45.130.3.213:80/2+2/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Украина",2+2
-https://95-213-172-221.livesports24.online/ua2plus2.m3u8
+https://185-106-121-143.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина",2+2 HD
 http://195.189.60.253/153/index.m3u8
 #EXTINF:-1 group-title="Украина",Zoom
@@ -840,7 +840,7 @@ http://37.17.12.119:8907/play/a00k?token=gelow74
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://86.57.174.73:14000/bel5?token=gelow74
 #EXTINF:-1 group-title="Спорт",Беларусь 5 HD
-https://95-213-172-221.livesports24.online/belarusss5.m3u8
+https://185-106-121-143.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 group-title="Спорт",Хоккейный HD
 http://31.128.159.41:8080/hokkeyniyhd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Первый автомобильный
@@ -960,17 +960,17 @@ http://46.174.189.51/setanta2/video.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2 HD
 https://sportuslive.ru/setanta2/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Setanta Ukraine HD
-https://95-213-172-221.livesports24.online/setantaukraine.m3u8?token=gelow74
+https://185-106-121-143.livesports24.online/setantaukraine.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Конный Мир
 http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Футбол 1 Украина HD
 https://sportuslive.ru/ua1/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Футбол 2 Украина HD
-https://95-213-172-221.livesports24.online/fooootball2.m3u8
+https://185-106-121-143.livesports24.online/fooootball2.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол 3 Украина HD
 http://46.174.189.51/ua3/video.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Футбол 3 Украина
-https://95-213-172-221.livesports24.online/football3ua.m3u8?922323392879a?token=gelow74
+https://185-106-121-143.livesports24.online/football3ua.m3u8?924401898914a?token=gelow74
 #EXTINF:-1 group-title="Спорт",Sport 1 HD Украина
 http://portal.ott.pink/watch/6989/video.m3u8?token=8D86B341BD63011004A3890381622C61
 #EXTINF:-1 group-title="Спорт",Спорт-1 UA
@@ -994,9 +994,9 @@ https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport HD
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?922323392879.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?924401898914.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV UHD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?922323392879.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?924401898914.m3u8
 #EXTINF:-1 group-title="Спорт",Arryadia Sport
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8?token=gelow74
 #EXTINF:-1 group-title="Спорт",Dubai Racing HD
@@ -1072,7 +1072,7 @@ http://185.97.150.19:8082/382
 #EXTINF:-1 group-title="Спорт",Sky sport 2 HD
 http://185.97.150.19:8082/381
 #EXTINF:-1 group-title="Компьютерные игры",Mobcrush HD
-https://ott.mobcrush.com/hls/0/ott.m3u8?922323392879.m3u8?token=gelow74
+https://ott.mobcrush.com/hls/0/ott.m3u8?924401898914.m3u8?token=gelow74
 #EXTINF:-1 group-title="Компьютерные игры",Game Show HD
 http://91.237.126.50:9001/udp/239.10.12.222:1234?token=test
 #EXTINF:-1 group-title="Компьютерные игры",Game Show
@@ -1976,7 +1976,7 @@ http://81.163.39.156:8384/udp/233.166.172.236:1234?token=gelow74
 #EXTINF:-1 group-title="Кино и сериалы",Киноужас
 http://hlstv.kem.211.ru/239.211.211.194/stream.m3u8?token=gelow74
 #EXTINF:-1 group-title="Кино и сериалы",Киноужас
-http://45.132.87.69:8080/kinouzhas/index.m3u8?bw923097857172/variant.m3u8?token=gelow74
+http://45.132.87.69:8080/kinouzhas/index.m3u8?bw925869198552/variant.m3u8?token=gelow74
 #EXTINF:-1 group-title="Кино и сериалы",Zee TV
 http://194.213.23.7:3304?token=gelow74
 #EXTINF:-1 group-title="Кино и сериалы",Zee TV
